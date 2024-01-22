@@ -9,4 +9,4 @@ Currently it also does not change the FQDN field either, as that appears to upda
 
 Feel free to send any PRs through if you improve it.
 
-CHeers
+Cheers
